@@ -36,13 +36,68 @@ Because similar to the drill through function, the tooltip also helps in lightni
 
 ![map](https://github.com/user-attachments/assets/4bd49b92-0e05-4212-8d2f-96481f3ae42a)
 
+## INITAIL SUMMARY ANALYSIS
+Before diving into this assignment, I already had some questions and other really relevant analysis I wanted to do. I showcased these with filters and cards in my dashboard report and presentation.
+
+### These additional summaries include:
+1. Top-selling mobile brands and models.
+2. Revenue by country and sales channel.
+3. Customer demographics breakdown.
+4. Trends in payment types and pricing.
+
+Breaking this down, I concluded on these findings:
+## Summary Analysis of Mobile Phone Sales Dataset
+📊 Overall Performance
+1. Total Revenue: $14,525,413
+2. Total Units Sold: 18,548
+
+🔝 Top Performing Brands
+By Units Sold:
+1. OnePlus – 4,395 units
+2. Apple – 4,226 units
+3. Xiaomi – 3,529 units
+4. Samsung – 3,246 units
+5. Google – 3,152 units
+
+By Revenue:
+1. Apple – $3.64M
+2. Samsung – $3.48M
+3. OnePlus – $3.03M
+4. Google – $2.55M
+5. Xiaomi – $1.82M
+
+💰 Top Mobile Models by Revenue
+1. Z Fold 6 (Samsung) – $1.68M
+2. Galaxy S25 Ultra (Samsung) – $1.28M
+3. Pixel 9 Pro (Google) – $1.27M
+4. OnePlus 12 Pro – $1.26M
+5. OnePlus 11R – $948K
+
+🌍 Revenue by Country
+1. India: $6.97M
+2. Turkey: $5.42M
+3. Bangladesh: $1.75M
+4. Pakistan: $382K
+India is the most lucrative market.
+
+Sales Channel Breakdown
+1. Online: 213 transactions
+2. Retail Store: 100 transactions
+3. Partner Channel: 53 transactions
+Online dominates the sales channel.
+
+💳 Payment Type Distribution
+1. EMI: 98 transactions
+2. Cash: 94 transactions
+3. Credit Card: 94 transactions
+4. UPI: 80 transactions
+EMI is the most preferred payment method.
 
 ## OVERVIEW OR SUMMARY PAGE
 This dashboard page provides a comprehensive overview of the company's overall performance. It answers questions such as:
 The overall quantity of mobile phones ordered, what is out total revenue after sales?, How much revenue did we get from sales of IOS Phones only and How much we got from the sales of Android phones only as this helps the company to know which phones they should focus on the most, I also looked at the overall revenue by phone model to see which ones are outperforming the rest, Details of age group behavior, which group prefers IOS the most and vice versa as well as which group prefer Android and vice versa,
 I also analysed the month-To-Day Sales and Month-Over-Month Revenue Percentage. Lastly but surely not the least, I looked at the top 10 cities contributing the most sales.
 Overhead are slicers to help managers easily slice and dice without any stress whatsoever.
-
 
 ## OVERVIEW OF ANDROID PAGE ANALYSIS
 This dashboard specifically, provides a comprehensive analysis of Android Phone Sales. it's essential as it is helps this Company identify Top Selling Android Phones only and respective properties, track revenue, Customer Age group behavior, and compare revenue by Monthly and Weekly trends. The company surely can rely on this dashboard to monitor it's revenues by Android Phones Only. Even better, is combining the drill through function to digest even further.
